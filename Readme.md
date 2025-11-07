@@ -46,10 +46,11 @@ Every directory includes commented source code with descriptive variable names a
 
 Highlights:
 
-•	Assignment 1 - Question 1: A restaurant menu simulation program where the user can select food items, choose quantities, and pay in different currencies. This task helped me understand 
+•	Assignment 1 - Q1.cpp: A restaurant menu simulation program where the user can select food items, choose quantities, and pay in different currencies. This task helped me understand 
 input/output operations, arithmetic, and conditional logic.
+<img width="765" height="410" alt="image" src="https://github.com/user-attachments/assets/880ed198-c53a-4a74-b32e-853fa4465cfb" />
 
-•	Assignment 1 - Question 5: An age calculator that determines the user's age in years, months, and days based on their date of birth. This exercise strengthened my understanding of arithmetic operations and modular logic.
+•	Assignment 1 - Q5.cpp: An age calculator that determines the user's age in years, months, and days based on their date of birth. This exercise strengthened my understanding of arithmetic operations and modular logic.
 
 •	Assignment 2 - Question 1: A random number guessing game where the computer generates a number between 1 and 100, and the user tries to guess it. This project improved my understanding of loops, random number generation, and conditional statements.
 
