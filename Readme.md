@@ -48,19 +48,25 @@ Highlights:
 
 •	Assignment 1 - Q1.cpp: A restaurant menu simulation program where the user can select food items, choose quantities, and pay in different currencies. This task helped me understand 
 input/output operations, arithmetic, and conditional logic.
+
 <img width="765" height="410" alt="image" src="https://github.com/user-attachments/assets/880ed198-c53a-4a74-b32e-853fa4465cfb" />
 
 •	Assignment 1 - Q5.cpp: An age calculator that determines the user's age in years, months, and days based on their date of birth. This exercise strengthened my understanding of arithmetic operations and modular logic.
+
 <img width="385" height="69" alt="image" src="https://github.com/user-attachments/assets/647d037a-d42c-4c70-a58b-8613bb778071" />
 
 
 •	Assignment 2 - Q1.cpp: A random number guessing game where the computer generates a number between 1 and 100, and the user tries to guess it. This project improved my understanding of loops, random number generation, and conditional statements.
+
 <img width="288" height="338" alt="image" src="https://github.com/user-attachments/assets/0dfbaf29-2521-4246-91c8-ef6e83dfa253" />
 
 
 •	For Loops and Nested Loops: Various pattern-generation programs using for loops and nested loops. These exercises significantly enhanced my grasp of iteration, control flow, and algorithmic thinking.
+
 <img width="461" height="329" alt="image" src="https://github.com/user-attachments/assets/72cb8498-d125-45e9-ad8e-0ba8d4ec3b01" />
+
 <img width="206" height="255" alt="image" src="https://github.com/user-attachments/assets/1cb9d164-6d99-4a5f-a44c-681f9ff7c821" />
+
 <img width="551" height="193" alt="image" src="https://github.com/user-attachments/assets/9cdfe587-6e19-421f-b771-662946c0936b" />
 
 These exercises not only strengthened my logical reasoning and debugging skills but also encouraged me to think creatively while solving problems.
